@@ -3,11 +3,11 @@
 
 package programmers.level1;
 
-public class getMiddleChar {
+public class GetMiddleChar {
 
     public static void main(String[] args) {
 
-        getMiddleChar test = new getMiddleChar();
+        GetMiddleChar test = new GetMiddleChar();
 
         System.out.println(test.solution("abcde"));
         System.out.println(test.solution("qwer"));
