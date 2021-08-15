@@ -1,8 +1,8 @@
 # Default ignored files
 /shelf/
 /out
-/src/test
-/src/codingtest
+/src/test/
+/src/codingtest/
 
 ### IntelliJ IDEA ###
 .idea
